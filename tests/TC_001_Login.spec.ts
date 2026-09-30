@@ -11,4 +11,5 @@ test('DDT_login' , async({page})=>
         await obj.signInuser()
         await obj.waitsmt()
         await obj.loginuser(ddt.username_data, ddt.password_data)
+        // console.log("Test cases")
 })
