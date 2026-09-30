@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30110","DDT_login","chromium","2026-09-28","broken","2026-09-28","","Login.spec.ts","",""
+"","19677","DDT_login","firefox","2026-09-28","failed","2026-09-28","","Login.spec.ts","",""
+"","33999","DDT_login","webkit","2026-09-28","broken","2026-09-28","","Login.spec.ts","",""
